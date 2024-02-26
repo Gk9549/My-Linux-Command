@@ -1,4 +1,3 @@
-
 Linux Commands frequently used by Linux Sysadmins 
 1. ip – from Iproute2, a collection of utilities for controlling TCP/IP networking and traffic control in Linux.
 2. ls – list directory contents.
